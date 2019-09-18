@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: KruKi's blog 
+title: My website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -11,10 +11,10 @@ description: A virtual proof that I'm awesome
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://KruKi.github.io"
+#url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: ""
+#baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -251,8 +251,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  
-remote_theme : daattali/beautiful-jekyll
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
